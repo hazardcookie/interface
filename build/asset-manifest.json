@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/CookieSwap/static/css/main.ecde9077.chunk.css",
+    "main.js": "/CookieSwap/static/js/main.47834aa7.chunk.js",
+    "main.js.map": "/CookieSwap/static/js/main.47834aa7.chunk.js.map",
+    "runtime-main.js": "/CookieSwap/static/js/runtime-main.c4c8bfbe.js",
+    "runtime-main.js.map": "/CookieSwap/static/js/runtime-main.c4c8bfbe.js.map",
+    "static/css/2.3ab4f688.chunk.css": "/CookieSwap/static/css/2.3ab4f688.chunk.css",
+    "static/js/2.f9871a38.chunk.js": "/CookieSwap/static/js/2.f9871a38.chunk.js",
+    "static/js/2.f9871a38.chunk.js.map": "/CookieSwap/static/js/2.f9871a38.chunk.js.map",
+    "static/js/3.f48aec8c.chunk.js": "/CookieSwap/static/js/3.f48aec8c.chunk.js",
+    "static/js/3.f48aec8c.chunk.js.map": "/CookieSwap/static/js/3.f48aec8c.chunk.js.map",
+    "index.html": "/CookieSwap/index.html",
+    "static/css/2.3ab4f688.chunk.css.map": "/CookieSwap/static/css/2.3ab4f688.chunk.css.map",
+    "static/css/main.ecde9077.chunk.css.map": "/CookieSwap/static/css/main.ecde9077.chunk.css.map",
+    "static/js/2.f9871a38.chunk.js.LICENSE.txt": "/CookieSwap/static/js/2.f9871a38.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/CookieSwap/static/media/Kanit-SemiBold.cf86a473.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4c8bfbe.js",
+    "static/css/2.3ab4f688.chunk.css",
+    "static/js/2.f9871a38.chunk.js",
+    "static/css/main.ecde9077.chunk.css",
+    "static/js/main.47834aa7.chunk.js"
+  ]
+}
