@@ -94,3 +94,12 @@ body {
 }
 
 
+.homepage{
+  /*center the text*/
+  text-align: center;
+  /*set the text size*/
+  font-size: 20px;
+  /*set the text color*/
+  color: #ffffff;
+
+}

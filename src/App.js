@@ -8,6 +8,7 @@ import { Route } from "react-router-dom";
 import { SnackbarProvider } from "notistack";
 import Liquidity from "./Liquidity/Liquidity";
 import { createTheme, ThemeProvider } from "@material-ui/core";
+import { connectWalletPage } from "./Components/connectWalletPage";
 
 const theme = createTheme({
   typography: {
