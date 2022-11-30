@@ -49,7 +49,7 @@ function ConnectWalletPage() {
     <div>
       <div className="Title">
         <h1 className="navbar-logo">
-          CookieSwap
+          CookieSwap 🍪
         </h1>
       </div>
 
