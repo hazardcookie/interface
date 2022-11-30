@@ -74,8 +74,8 @@ function ConnectWalletPage() {
         alignItems="flex-end"
       >
         <p  class="footer-text">
-          CookieSwap | By: @{""}
-          <a class="footer-link" href="https://twitter.com/hazardcookie">hazardcookie</a>
+          CookieSwap | By: {""}
+          <a class="footer-link" href="https://twitter.com/hazardcookie">@hazardcookie</a>
         </p>
       </Grid>
     </div>
