@@ -1,7 +1,7 @@
 export const networks = [1440001, 1, 3,4,5,42,123, 1337, 65110000, 65010000]
 
 export const ChainId = {
-  XRPL: 1440001,
+  XRPL: 1440002,
   MAINNET: 1,
   ROPSTEN: 3,
   RINKEBY: 4,
@@ -14,7 +14,7 @@ export const ChainId = {
 };
 
 export const routerAddress = new Map();
-routerAddress.set(ChainId.XRPL, "0x662edb2cfd0e17eac617befe7e4182bc5137dc1e");
+routerAddress.set(ChainId.XRPL, "0x4b1d9EC266107A78c7B2c0225E3f7B0914Fb5821");
 routerAddress.set(ChainId.MAINNET, "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D");
 routerAddress.set(ChainId.ROPSTEN, "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D");
 routerAddress.set(ChainId.RINKEBY, "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D");

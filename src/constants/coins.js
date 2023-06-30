@@ -9,15 +9,20 @@ const XRPLcoins = [
     address: "", // Weth address is fetched from the router
   },
   {
-    name: "LOL Token",
-    abbr: "LOL",
-    address: "0x57ee425952c44618bdf9751317f2096bacc05341",
+    name: "Cookie",
+    abbr: "COOKIE",
+    address: "0x7c5656c324088a0920E1fd10eE4b4B2Cd203DcCc",
   },
   {
-    name: "cookieUSD",
-    abbr: "cUSD",
-    address: "0x83e7b126c047424c3ed018357df0376b980060ec",
-  }
+    name: "USD (Test)",
+    abbr: "USD",
+    address: "0xff0d22c43c43c6d5d6d17a0109e6605ac7b26489",
+  },
+  {
+    name: "Peersyst Token",
+    abbr: "PER",
+    address: "0x89b4de433558cbeea95cd57bfca4357a4fea4ace",
+  },
 ]
 
 
