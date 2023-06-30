@@ -1,5 +1,5 @@
 export const networks = [1440002, 1, 3,4,5,42,123, 1337, 65110000, 65010000]
-
+// 1440002 is the XRPL evm v2
 export const ChainId = {
   XRPL: 1440002,
   MAINNET: 1,
